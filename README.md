@@ -55,7 +55,7 @@ Whether architecting backend systems, developing intuitive interfaces, or managi
 
 #### Zingsa Fuel Management Module (Odoo 17)
 A comprehensive Odoo-based solution for managing organizational fuel operations—allocations, requests, transfers, and analytics—with deep HR and Fleet integration and bulletproof audit trails.  
-[Project Website](https://zingsa.ac.zw)  
+ 
 <sub>This is a private repository. Contact me for a demo or more info!</sub>
 
 ---
